@@ -79,9 +79,9 @@ This project aims to predict the risk of diabetes in patients based on their med
 
 ## Example output:
 
-![Training and Testing Set Split](t1.png)
+![Training and Testing Set Split](t1.jpg)
 
-![Model Comparison](t2.png)
+![Model Comparison](t2.jpg)
 
 
 
